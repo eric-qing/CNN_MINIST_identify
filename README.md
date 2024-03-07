@@ -1,2 +1,5 @@
-# CNN_MINIST_identify
-MINIST handwritten digit recognition project code based on CNN
+# ConvolutionalNeuralNetwork
+目前此仓库包括：
+- [基于CNN的MINIST手写数字识别项目代码以及原理详解](https://github.com/IronmanJay/ConvolutionalNeuralNetwork/tree/master/MinistHandWrittenDigitRecognition)
+
+# 持续更新中……
